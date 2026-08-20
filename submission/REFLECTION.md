@@ -124,7 +124,7 @@ Offered load tăng từ 10 lên 50 users nhưng RPS không tăng; thay vào đó
 - [x] `benchmarks/locust-10_stats.csv` + `locust-50_stats.csv` committed (`make load-10` / `load-50`)
 - [x] `benchmarks/03-integration-results.md` committed (`make pipeline`)
 - [x] Mọi section required trong các file `benchmarks/*.md` đã được thay bằng nhận xét của tôi
-- [ ] 5 screenshots trong `submission/screenshots/`
+- [x] 5 screenshots trong `submission/screenshots/`
 - [ ] `make verify` / `scripts\verify.py` exit 0
 - [ ] Repo GitHub ở chế độ public
 - [ ] Đã paste public URL vào VinUni LMS
